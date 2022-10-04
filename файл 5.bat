@@ -1,0 +1,1 @@
+Echo Something went wrong, i can feel it> C:\Users\%USERNAME%\Downloads\test.txt
